@@ -18,3 +18,4 @@ Feel free to use all tools and framework you are already familiar with.
 Within our current technology stack I recommend to use:
 - ReactJS
 - TypeScript
+- [Chakra UI](https://v2.chakra-ui.com/)
